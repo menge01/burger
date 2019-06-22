@@ -13,6 +13,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
     MVC<br/>
     NPM packages -- Express, body-parser, method-override, express-handlebars, mysql<br/>
     
-    ![Capture](https://user-images.githubusercontent.com/39536292/59966405-5de41e80-94ea-11e9-9a4d-ef806a34a077.GIF)
+    ![Capture](https://user-images.githubusercontent.com/39536292/59966418-82d89180-94ea-11e9-8297-e4854cf84f8a.GIF)
+
 
 
